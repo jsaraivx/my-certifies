@@ -32,7 +32,7 @@ The primary purpose of this repository is to:
 
 ## The repository is structured as follows:
 
-- `./my-certifies/`: This file, providing an overview of the repository.
+- `./my-certifies/`: This is the root directory.
     - `README.md`: This file, providing an overview of the repository.
     - `platform_or_institution_name/` Directory filtred by Institution or Platform..
         - `course_name/`: The certificate dir for the respective course.
